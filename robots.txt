@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kchong547.github.io/DH150/sitemap.xml
